@@ -53,7 +53,7 @@ docker login
 docker push navneetpathak1909/mysolutionname:somerandomidentifier
 ```
 Folder Structure Example
-
+```bash
 project-root/
 ├── Dockerfile
 ├── final.py
@@ -62,3 +62,4 @@ project-root/
 │   ├── example1.pdf
 │   └── example2.pdf
 └── output/
+```
